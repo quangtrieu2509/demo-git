@@ -1,0 +1,10 @@
+git init: tạo repo
+git clone: lấy từ trên mạng về
+git pull: đồng bộ từ trên mạng về máy
+
+git add: thêm file
+git commit: sửa file
+git push: đồng bộ từ máy lên mạng
+
+git log: check trạng thái
+git log - decorate - graph - oneline
